@@ -1,4 +1,7 @@
-# MeltCore-I – Open-Source High-Temperature 3D Printer
+<h1>
+  <img src="https://avatars.githubusercontent.com/u/125131525?v=4" alt="Profile Picture" width="50" style="vertical-align: middle; margin-right: 20px;" />
+  MeltCore-I – Open-Source High-Temperature 3D Printer
+</h1>
 
 **MeltCore-I** is a powerful, open-source high-temperature 3D printer designed for extreme materials and demanding applications. Built on a modified HevORT architecture, MeltCore-I brings industrial-grade capabilities into the hands of makers, researchers, and small businesses.
 
