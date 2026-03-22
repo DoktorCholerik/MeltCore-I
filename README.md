@@ -1,4 +1,5 @@
-**MeltCore-I** is a powerful, open-source high-temperature 3D printer designed for extreme materials and demanding applications. Built on a modified HevORT architecture, MeltCore-I brings industrial-grade capabilities into the hands of makers, researchers, and small businesses.
+## MeltCore-I
+is a powerful, open-source high-temperature 3D printer designed for extreme materials and demanding applications. Built on a modified HevORT architecture, MeltCore-I brings industrial-grade capabilities into the hands of makers, researchers, and small businesses.
 
 ---
 
