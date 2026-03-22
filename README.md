@@ -1,13 +1,8 @@
-<h1>
-  <img src="https://avatars.githubusercontent.com/u/125131525?v=4" alt="Profile Picture" width="50" style="vertical-align: middle; margin-right: 20px;" />
-  MeltCore-I – Open-Source High-Temperature 3D Printer
-</h1>
-
 **MeltCore-I** is a powerful, open-source high-temperature 3D printer designed for extreme materials and demanding applications. Built on a modified HevORT architecture, MeltCore-I brings industrial-grade capabilities into the hands of makers, researchers, and small businesses.
 
 ---
 
-## 🔥 Key Features
+## Key Features
 
 - **Hotend up to 500 °C**  
   Industrial-grade **Chube hotend**, water-cooled for continuous high-temp printing
@@ -15,43 +10,40 @@
 - **Enclosed heated chamber >120 °C**  
   Powered by dual **400 W PTC heaters** with active temperature control
 
-- **Custom heated bed >1000 W @ 220 V**  
+- **Custom heated bed 1600 W @ 230 V**  
   Excellent thermal stability for PEEK, PEI, PA-CF and more
 
-- **Large print volume: 400×400×330 mm (XYZ)**  
+- **Large print volume: 410×410×330 mm (XYZ)**  
   In a compact 750×820×785 mm footprint
 
 - **CoreXY kinematics with NEMA 23 JMC closed-loop servos**  
   Based on the **HevORT** motion system for high speed and accuracy
 
-- **Sherpa Heavy V3 extruder with PEEK internals**  
+- **Watercooled VzHextrudort with watercooled 6t stepper**  
   Optimized for high-strength filament drive and heat resistance
 
-- **Water-cooled printhead assembly**  
-  For thermal stability in high-temperature environments
+- **Precision bed motion with belts + 10:1 planetary gear steppers**
 
-- **Precision bed motion with belts + planetary gear steppers**
-
-- **Cartographer V3 sensor**  
+- **Beacon sensor**  
   For accurate bed leveling and high-resolution probing
 
 - **CPAP blower for active part cooling**  
   Controlled via PWM for reliable high-volume airflow
 
-- **Runs on Klipper firmware**  
+- **Runs on Kalico firmware**  
   Powered by **Octopus Pro mainboard** and **Raspberry Pi 5**  
   Full support for input shaping, remote tuning, and high-speed performance
   
 ---
 
-## 💻 Firmware & Electronics
+## Firmware & Electronics
 
-- **Firmware**: Klipper  
-- **Mainboard**: BigTreeTech **Octopus Pro**  
-- **Host**: **Raspberry Pi 5** (with USB or SPI CAN support)  
-- **Temperature control**: PT100/PT1000 sensors, solid-state relays for bed and chamber  
+- **Firmware**: Kalico - Klipper based 
+- **Mainboard**: 2x BigTreeTech **Octopus Pro**  
+- **Host**: **Raspberry Pi 5**
+- **Temperature control**: PT1000 sensors, solid-state relays for bed and chamber and 230v electronics fans 
 - **Motion**: NEMA 23 closed-loop servos on XY, planetary gear stepper on Z  
-- **Extruder**: **Sherpa Heavy V3** with PEEK-loaded internals  
+- **Extruder**: VzHextrudort as main extruder, and secound extruder with custom belay to counter long ptfe tube 
 - **Cooling**:  
   - **Water-cooled hotend assembly**  
   - **CPAP blower** for high-efficiency part cooling  
@@ -59,7 +51,7 @@
 
 ---
 
-## 📸 First Look
+## First Look
 
 Is posted – BOM, Build Guide, real-world print samples and performance tests of PEEK, PEI, PA-CF will follow in near future.
 
