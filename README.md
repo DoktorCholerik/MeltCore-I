@@ -53,8 +53,7 @@ is a powerful, open-source high-temperature 3D printer designed for extreme mate
 ---
 
 ## First Look
-
-Is posted – BOM, Build Guide, real-world print samples and performance tests of PEEK, PEI, PA-CF will follow in near future.
+To be done...
 
 ---
 
