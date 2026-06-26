@@ -37,23 +37,14 @@ is a powerful, open-source high-temperature 3D printer designed for extreme mate
   
 ---
 
-## Firmware & Electronics
-
-- **Firmware**: Kalico - Klipper based 
-- **Mainboard**: 2x BigTreeTech **Octopus Pro**  
-- **Host**: **Raspberry Pi 5**
-- **Temperature control**: PT1000 sensors, solid-state relays for bed and chamber and 230v electronics fans 
-- **Motion**: NEMA 23 closed-loop servos on XY, planetary gear stepper on Z  
-- **Extruder**: VzHextrudort as main extruder, and secound extruder with custom belay to counter long ptfe tube 
-- **Cooling**:  
-  - **Water-cooled hotend assembly**  
-  - **CPAP blower** for high-efficiency part cooling  
-  - Active electronics cooling with filtered airflow
-
----
-
 ## First Look
-To be done...
+Videos of the first prints testing different extruders using petg as filament can be seen in its folder.
+Here are some pictures of the printer in its final beta state:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/65c0cb71-f6b4-4cf5-b9e4-4f881183a21e" height="395">
+  <img src="https://github.com/user-attachments/assets/9b2a579b-b172-4e5a-81c7-20ccac2c0db7" height="395">
+  <img src="https://github.com/user-attachments/assets/79ce7cd2-29b7-4fcb-9b5b-12afb5f31491" height="395">
+</p>
 
 ---
 
@@ -80,19 +71,6 @@ It is designed for printing engineering-grade materials and requires careful han
 
 > ⚠️ **This is not a plug-and-play printer.**  
 > MeltCore-I is a high-performance research and prototyping tool. Building and operating it requires technical knowledge in electronics, motion control, and thermal safety.
-
----
-
-### 🔒 Safety Guidelines
-
-Please follow these principles during your build:
-
-- Use certified components and proper wiring techniques  
-- Install thermal fuses, SSRs, and firmware-based thermal runaway protection  
-- Follow electrical codes and insulate high-voltage sections appropriately  
-- Ensure adequate enclosure ventilation for electronics and high-temp zones  
-- Use protective equipment during testing and maintenance  
-- Never leave the printer unattended during operation
 
 ---
 
