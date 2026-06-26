@@ -41,9 +41,9 @@ is a powerful, open-source high-temperature 3D printer designed for extreme mate
 Videos of the first prints testing different extruders using petg as filament can be seen in its folder.
 Here are some pictures of the printer in its final beta state:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/65c0cb71-f6b4-4cf5-b9e4-4f881183a21e" height="395">
-  <img src="https://github.com/user-attachments/assets/9b2a579b-b172-4e5a-81c7-20ccac2c0db7" height="395">
-  <img src="https://github.com/user-attachments/assets/79ce7cd2-29b7-4fcb-9b5b-12afb5f31491" height="395">
+  <img src="https://github.com/user-attachments/assets/65c0cb71-f6b4-4cf5-b9e4-4f881183a21e" height="350">
+  <img src="https://github.com/user-attachments/assets/9b2a579b-b172-4e5a-81c7-20ccac2c0db7" height="350">
+  <img src="https://github.com/user-attachments/assets/79ce7cd2-29b7-4fcb-9b5b-12afb5f31491" height="350">
 </p>
 
 ---
